@@ -1,8 +1,7 @@
-let x = "ali"
+let x = 5
 let y = 5
+let z = 5
 
-console.log(y);
-console.log(y);
-console.log(y);
-console.log(x);
-console.log(x);
+console.log(x)
+console.log(y)
+console.log(z)
